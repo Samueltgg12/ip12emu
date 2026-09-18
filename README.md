@@ -6,7 +6,7 @@ A fast C++ emulator for the **original SGI Indigo** — the 1991 MIPS R3000A wor
 > **Mission: speed, not accuracy.** ip12emu is deliberately *not* a cycle-accurate recreation.
 > The goal is to run the Indigo — its PROM, ARCS, IRIX 4.0.x, and NetBSD/sgimips — **as fast as
 > possible**, using every optimization available including a JIT for the MIPS core.
-
+![Indigo Image](assets/iris-indigo.jpg)
 ## What it emulates
 
 | Component | Hardware |
